@@ -1,0 +1,182 @@
+body {
+    font-family: 'Lato', sans-serif;
+
+    font-family: 'Nuosu SIL', serif;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#one {
+    font-size: 60px;
+    color: aliceblue;
+}
+
+#other {
+    text-align: center;
+    color: #f1f1f1;
+}
+
+
+#p {
+    color: rgb(62, 55, 55);
+    text-align: center;
+}
+
+.flexible-container {
+    display: flex;
+    text-align: center;
+}
+
+.top-banner {
+
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+    height: 400px;
+    width: 100%;
+}
+
+
+.wigth {
+    width: 50%;
+    text-align: center;
+    margin-left: 400px;
+}
+
+.link-it {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 157, 0), tomato);
+    padding: 10px 40px;
+    color: aliceblue;
+    border-radius: 5px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.hi {
+    text-align: center;
+}
+
+.me {
+    text-align: center;
+
+}
+
+#my {
+    text-align: center
+}
+
+.black {
+    font-size: 60px;
+    color: black;
+    text-align: center;
+}
+
+.he {
+    color: gray;
+    text-align: left;
+    font-size: large;
+    position: relative;
+}
+
+.flex-container {
+    display: flex;
+    text-align: center;
+}
+
+.flex-container>div {
+    background-color: #f1f1f1;
+    width: 20%;
+    margin: 10px 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    padding: 60px 30px;
+}
+
+#you {
+    padding: 60px 30px;
+    margin: 10px 10px;
+    background-color: pink;
+    border: 10px;
+    border-color: palevioletred;
+}
+
+.b1 {
+    padding: 40px 40px;
+    margin: 5px 5px;
+    text-align: center;
+    display: block;
+}
+
+#oi {
+    text-underline-position: auto;
+
+    color: gray;
+}
+
+.expriences-item {
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5px 5px;
+    text-align: justify;
+
+}
+
+#bg-a {
+    background-color: skyblue;
+}
+
+#bg-b {
+    background-color: pink;
+}
+
+#bg-c {
+    background-color: rgb(235, 193, 145);
+}
+
+.ke {
+    text-align: left;
+}
+
+.half-width {
+    width: 50%;
+    padding: 10px 10px;
+    margin: 30px 30px;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+h4 {
+    font-size: large;
+    text-align: center;
+    color: gray;
+}
+
+
+footer {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    background-color: black;
+    font-family: 'Splash', cursive;
+
+}
+
+#ami {
+    font-size: 40px;
+    color: blueviolet;
+}
+
+#tumi {
+    color: #f1f1f1;
+}
